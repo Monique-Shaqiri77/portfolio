@@ -5,8 +5,8 @@ import { Roboto_Condensed } from 'next/font/google'
 const inter = Roboto_Condensed({ subsets: ['latin'], weight: ['400', '700'] })
 
 export const metadata: Metadata = {
-  title: 'Sergii Medvid',
-  description: "My name is Sergii Medvid, Fullstack JavaScript, React, Magento developer.",
+  title: 'Monique Shaqiri',
+  description: "My name is Monique Shaqiri, Web/App/Softwaredeveloper",
 }
 
 type LayoutParamsProps = {
